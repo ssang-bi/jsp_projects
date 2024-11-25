@@ -1,0 +1,12 @@
+127.0.0.1 - - [16/Oct/2024:20:19:21 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [16/Oct/2024:20:19:52 +0900] "GET /JSPProjects/hello.jsp HTTP/1.1" 200 124
+0:0:0:0:0:0:0:1 - - [16/Oct/2024:20:19:52 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+127.0.0.1 - - [16/Oct/2024:20:37:02 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [16/Oct/2024:20:37:03 +0900] "GET /JSPProjects/loginPractice.jsp HTTP/1.1" 200 292
+0:0:0:0:0:0:0:1 - - [16/Oct/2024:20:37:09 +0900] "POST /JSPProjects/resultPractice.jsp HTTP/1.1" 500 2376
+0:0:0:0:0:0:0:1 - - [16/Oct/2024:20:41:14 +0900] "GET /JSPProjects/loginPractice.jsp HTTP/1.1" 200 292
+0:0:0:0:0:0:0:1 - - [16/Oct/2024:20:41:19 +0900] "POST /JSPProjects/resultPractice.jsp HTTP/1.1" 200 133
+0:0:0:0:0:0:0:1 - - [16/Oct/2024:20:45:44 +0900] "GET /JSPProjects/loginPractice.jsp HTTP/1.1" 200 292
+0:0:0:0:0:0:0:1 - - [16/Oct/2024:20:45:48 +0900] "POST /JSPProjects/resultPractice.jsp HTTP/1.1" 500 2271
+0:0:0:0:0:0:0:1 - - [16/Oct/2024:20:46:16 +0900] "POST /JSPProjects/resultPractice.jsp HTTP/1.1" 200 129
+0:0:0:0:0:0:0:1 - - [16/Oct/2024:20:46:27 +0900] "POST /JSPProjects/resultPractice.jsp HTTP/1.1" 200 126
