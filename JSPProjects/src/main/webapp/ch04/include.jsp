@@ -4,8 +4,8 @@
 <title>Action Tag</title>
 </head>
 <body>
-	<h2>forward 액션 태그</h2>
-	<jsp:forward page = "forward_date.jsp" />
+	<h2>include 액션 태그</h2>
+	<jsp:include page = "include_date.jsp" flush="true" />
 	<p> ----------------------------
 </body>
 </html>

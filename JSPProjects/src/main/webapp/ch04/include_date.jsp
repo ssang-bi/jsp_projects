@@ -4,8 +4,7 @@
 <title>Action Tag</title>
 </head>
 <body>
-	<h2>forward 액션 태그</h2>
-	<jsp:forward page = "forward_date.jsp" />
-	<p> ----------------------------
+	<p> 오늘의 날짜 및 시각
+	<p> <%= (new java.util.Date()).toLocaleString() %>
 </body>
 </html>
